@@ -4,7 +4,7 @@
 
 I'm a creative and committed programmer, specialising in the Javascript ecosystem and React.
 
-I love front end design and solving technical and UI/UX problems.
+I love frontend design and solving technical and UI/UX problems.
 
 ## Here are some of my skills
 
